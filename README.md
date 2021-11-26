@@ -20,3 +20,15 @@
 ## doc-тесты ##
 ![image](https://user-images.githubusercontent.com/84718699/143623025-0d57d8a7-ee15-4c52-87f7-9b915329305b.png)
 
+## Работа с отладчиком ##
+
+### Cвойства изображения ###
+Ширина = 750
+Высота = 750
+Тип = JpegImageFile
+![image](https://user-images.githubusercontent.com/84718699/143623571-0b32b80c-17df-49f9-92c4-a22c887f39e1.png)
+
+### Ввод ###
+Ширина блока = 10
+Количество градаций серого = 50
+![image](https://user-images.githubusercontent.com/84718699/143623679-5114a3e8-dece-44e2-b48b-5eb1bc38334c.png)
