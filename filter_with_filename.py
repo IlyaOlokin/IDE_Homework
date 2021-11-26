@@ -3,9 +3,9 @@ import numpy as np
 
 
 def convert_image_to_mosaic():
-    image_file = Image.open(input())
-    block_size = int(input())
-    gradations_count = int(input())
+    image_file = Image.open("img2.jpg")
+    block_size = 10
+    gradations_count = 50
     image = np.array(image_file)
     gradation_step = 255 // gradations_count
 
@@ -15,7 +15,7 @@ def convert_image_to_mosaic():
                 image[x:x + block_size, y:y + block_size], block_size, gradation_step)
 
     res = Image.fromarray(image)
-    res.save(input())
+    res.save("res.jpg")
 
 
 def get_average_brightness(block, size, gradation_step):
