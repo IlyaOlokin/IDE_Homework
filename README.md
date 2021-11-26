@@ -16,3 +16,7 @@
 
 ## Изображение после пробразования ##
 ![res](https://user-images.githubusercontent.com/84718699/143616332-3a66c7dd-b03a-412e-8daa-45677678c948.jpg)
+
+## doc-тесты ##
+![image](https://user-images.githubusercontent.com/84718699/143623025-0d57d8a7-ee15-4c52-87f7-9b915329305b.png)
+
